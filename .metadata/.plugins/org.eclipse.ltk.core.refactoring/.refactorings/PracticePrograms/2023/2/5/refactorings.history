@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;all_programs.Prime_Numbers.java&apos; to &apos;Reverse_String.java&apos;&#x0D;&#x0A;- Original project: &apos;PracticePrograms&apos;&#x0D;&#x0A;- Original element: &apos;all_programs.Prime_Numbers.java&apos;&#x0D;&#x0A;- Renamed element: &apos;all_programs.Reverse_String.java&apos;" description="Rename compilation unit &apos;Prime_Numbers.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;all_programs{Prime_Numbers.java" name="Reverse_String.java" references="false" stamp="1675537906606" version="1.0"/>
+</session>

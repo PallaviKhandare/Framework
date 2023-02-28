@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-01T13:56:59 IST" name="Suite" finished-at="2022-12-01T13:57:14 IST" duration-ms="15802">
+    <groups>
+    </groups>
+    <test started-at="2022-12-01T13:56:59 IST" name="TestChrome" finished-at="2022-12-01T13:56:59 IST" duration-ms="7">
+    </test> <!-- TestChrome -->
+    <test started-at="2022-12-01T13:56:59 IST" name="TestEdge" finished-at="2022-12-01T13:57:05 IST" duration-ms="6540">
+      <class name="Test_TestNG.Test_a4">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Test_TestNG.Test_a4@4efbca5a]" started-at="2022-12-01T13:56:59 IST" name="setUp" finished-at="2022-12-01T13:57:05 IST" duration-ms="6126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Test_1()[pri:0, instance:Test_TestNG.Test_a4@4efbca5a]" started-at="2022-12-01T13:57:05 IST" name="Test_1" finished-at="2022-12-01T13:57:05 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_TestNG.Test_a4@4efbca5a]" started-at="2022-12-01T13:57:05 IST" name="tearDown" finished-at="2022-12-01T13:57:05 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_TestNG.Test_a4 -->
+    </test> <!-- TestEdge -->
+    <test started-at="2022-12-01T13:57:05 IST" name="TestFireFox" finished-at="2022-12-01T13:57:14 IST" duration-ms="9177">
+      <class name="Test_TestNG.Test_a4">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Test_TestNG.Test_a4@1a482e36]" started-at="2022-12-01T13:57:05 IST" name="setUp" finished-at="2022-12-01T13:57:09 IST" duration-ms="3594" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Test_1()[pri:0, instance:Test_TestNG.Test_a4@1a482e36]" started-at="2022-12-01T13:57:09 IST" name="Test_1" finished-at="2022-12-01T13:57:14 IST" duration-ms="4674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_TestNG.Test_a4@1a482e36]" started-at="2022-12-01T13:57:14 IST" name="tearDown" finished-at="2022-12-01T13:57:14 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_TestNG.Test_a4 -->
+    </test> <!-- TestFireFox -->
+  </suite> <!-- Suite -->
+</testng-results>

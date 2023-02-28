@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Test_TestNG.Test_xml&apos; to &apos;Test_Keywords&apos;&#x0D;&#x0A;- Original project: &apos;Project_Framework&apos;&#x0D;&#x0A;- Original element: &apos;Test_TestNG.Test_xml&apos;&#x0D;&#x0A;- Renamed element: &apos;Test_TestNG.Test_Keywords&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Test_xml&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;Test_TestNG{Test_xml.java[Test_xml" matchStrategy="1" name="Test_Keywords" qualified="false" references="true" similarDeclarations="false" stamp="1676662378624" textual="false" version="1.0"/>
+</session>
